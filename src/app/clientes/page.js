@@ -11,7 +11,6 @@ export default function Fundamentos(){
         <Link href="/">Página Inicial</Link><br />
         <Link href="/fundamentos">Página Fundamentos</Link><br />
 
-        
         </>
         )
     }
